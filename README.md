@@ -1,5 +1,6 @@
 
 
+
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -14,8 +15,9 @@
 <p> Trabalho de implementação de software <a href="">Good System</a></p>
 
 
-![GoodSystem](img/good-systems-transparent.pn)
 
+
+![good-systems-transparent](https://github.com/user-attachments/assets/81b9af0a-fb91-4c69-a8e8-fa0b60d2fb75)
 
 <p>Projeto</p>
 <p><a href="">Site do projeto</p>
