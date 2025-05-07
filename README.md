@@ -11,6 +11,7 @@
     <h1>Projeto Integrador</h1>
 
 <p> Grupo 6 - Segundo semestre do Curso Desenvolvimento de Software Multiplataforma da <a href="https://fatecararas.cps.sp.gov.br/tecnologia-em-desenvolvimento-de-softwares-multiplataforma/"> FATEC ARARAS</a> </p>
+<hr> 
 
 <p> Trabalho de implementação de software <a href="">Good System</a></p>
 
@@ -24,7 +25,7 @@
 <p>Projeto</p>
 <p><a href="">Site do projeto</p>
 <p><a href="">Documentação</a></p>
-<hr> 
+
 <h1>Colaboradores</h1>
 
 <p>PO</p>
