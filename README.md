@@ -24,7 +24,7 @@
 <p>Projeto</p>
 <p><a href="">Site do projeto</p>
 <p><a href="">Documentação</a></p>
-
+<hr> 
 <h1>Colaboradores</h1>
 
 <p>PO</p>
