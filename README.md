@@ -25,11 +25,11 @@
 
 <p>Desenvolvedores Web e Analista de requisitos</p>
 
-<p><a href="https://github.com/TiagoBertoline"></a> Tiago Bertoline</p>
+<p><a href="https://github.com/TiagoBertoline">Tiago Bertoline<</a> 
 <p><a href="https://github.com/willsf2021"> Wilson Silva </a></p>
 
 
-tiago.bertoline@hotmail.com
+
 
 
 
