@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+   
 </head>
 <body>
     <h1>Projeto Integrador</h1>
@@ -12,8 +12,9 @@
 <p> Grupo 6 - Segundo semestre do Curso Desenvolvimento de Software Multiplataforma da <a href="https://fatecararas.cps.sp.gov.br/tecnologia-em-desenvolvimento-de-softwares-multiplataforma/"> FATEC ARARAS</a> </p>
 
 <p> Trabalho de implementação de software <a href="">Good System</a></p>
-<img src="good-systems-transparent.png" alt="img-fluid">
 
+
+![GoodSystem](img/good-systems-transparent.pn)
 
 
 <p>Projeto</p>
